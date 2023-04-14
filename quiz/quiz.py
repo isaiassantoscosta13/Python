@@ -109,3 +109,4 @@ iniciar_jogo_botao = ttk.Button(window, text="Iniciar jogo", command=lambda: faz
 iniciar_jogo_botao.pack(pady=10)
 
 window.mainloop()
+#Código no repositório https://github.com/isaiassantoscosta13/Python
