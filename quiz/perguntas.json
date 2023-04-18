@@ -1,0 +1,23 @@
+[
+    {
+        "pergunta": "Quantas copas do mundo o Brasil tem?",
+        "opcoes": ["5","4", "3", "2"],
+        "resposta": "A"
+    },
+    {
+        "pergunta": "Quem descobriu o Brasil?",
+        "opcoes": ["Dom Pedro l","Zumbi de Palmares","Pedro A Cabral", "Machado de Assis"],
+        "resposta": "C"
+    },
+    {
+        "pergunta": "Quantos livros tem a Bíblia?",
+        "opcoes": ["65","67","70", "66"],
+        "resposta": "D"
+    },
+    {
+        "pergunta": "Quem escreveu o pentateuco?",
+        "opcoes": ["Adão","Moisés","Jó", "Salomão"],
+        "resposta": "B"
+    }
+
+]
