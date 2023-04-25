@@ -1,4 +1,4 @@
-#Exercício JokenPO
+#Exercício do jogo JokenPO
 import random
 from time import sleep
 
