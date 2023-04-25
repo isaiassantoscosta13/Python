@@ -13,7 +13,7 @@ window.geometry("1000x600")
 alfabeto = ['A','B','C','D']
 
 # Carrega as perguntas do arquivo perguntas.json
-with open("perguntas.json", "r", encoding="utf-8") as f:
+with open(r"C:\Users\isaia\OneDrive\Documentos\GitHub\Python\quiz\perguntas.json", "r", encoding="utf-8") as f:
     perguntas = json.load(f)
 
 # Função para apresentar uma pergunta aleatória
