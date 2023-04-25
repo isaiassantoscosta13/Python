@@ -8,7 +8,7 @@ from tkinter import messagebox
 
 # Configurações da janela principal
 window = tk.Tk()
-window.title("Quiz maná")
+window.title("Quiz IFSC")
 window.geometry("1000x600")
 alfabeto = ['A','B','C','D']
 
