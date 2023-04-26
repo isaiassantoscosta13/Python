@@ -1,4 +1,3 @@
-
 import pygame
 import os
 import random
@@ -10,9 +9,9 @@ IMAGEM_CANO = pygame.transform.scale2x(pygame.image.load(r'C:\Users\isaia\OneDri
 IMAGEM_CHAO = pygame.transform.scale2x(pygame.image.load(r'C:\Users\isaia\OneDrive\Documentos\GitHub\Python\jogo_Flappy\imgs\base.png'))
 IMAGEM_BACKGROUD = pygame.transform.scale2x(pygame.image.load(r'C:\Users\isaia\OneDrive\Documentos\GitHub\Python\jogo_Flappy\imgs\bg.png'))
 IMAGENS_PASSARO = [
-    pygame.transform.scale2x(pygame.image.load(r'C:\Users\isaia\OneDrive\Documentos\GitHub\Python\jogo_Flappy\imgs\r1.png')),  
-    pygame.transform.scale2x(pygame.image.load(r'C:\Users\isaia\OneDrive\Documentos\GitHub\Python\jogo_Flappy\imgs\r1.png')),
-    pygame.transform.scale2x(pygame.image.load(r'C:\Users\isaia\OneDrive\Documentos\GitHub\Python\jogo_Flappy\imgs\r1.png')),
+    pygame.transform.scale2x(pygame.image.load(r'C:\Users\isaia\OneDrive\Documentos\GitHub\Python\jogo_Flappy\imgs\bird1.png')),  
+    pygame.transform.scale2x(pygame.image.load(r'C:\Users\isaia\OneDrive\Documentos\GitHub\Python\jogo_Flappy\imgs\bird2.png')),
+    pygame.transform.scale2x(pygame.image.load(r'C:\Users\isaia\OneDrive\Documentos\GitHub\Python\jogo_Flappy\imgs\bird3.png')),
 ]
 
 pygame.font.init()
