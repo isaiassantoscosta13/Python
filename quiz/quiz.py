@@ -100,7 +100,7 @@ titulo_label = ttk.Label(window, text="Quiz UMP 2023", font=("Arial", 40, "bold"
 titulo_label.pack(pady=10)
 
 # Cria a imagem a partir de um arquivo
-imagem = tk.PhotoImage(file=r"C:\Users\isaia\OneDrive\Documentos\Material\projPython\quizedit.png")
+imagem = tk.PhotoImage(file=r"C:\Users\isaia\OneDrive\Documentos\GitHub\Python\quiz\quizedit.png")
 # Cria o widget para exibir a imagem
 imagem_label = tk.Label(window, image=imagem, width=500, height=500)
 imagem_label.pack(pady=10,padx=10)
